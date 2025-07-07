@@ -1,0 +1,12 @@
+a=29
+print(float(a))
+print(str(a))
+print(complex(a))
+print(bool(a))
+
+b=34.4
+print(int(b))
+print(str(b))
+print(complex(b))
+print(bool(b))      
+
