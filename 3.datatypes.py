@@ -1,0 +1,16 @@
+a={1,2,3,4,4,3}
+print(type(a))
+b=12.4
+print(type(b))
+t=(1,2,3,4)
+print(type(t))
+t=(1,"string")
+print(t)
+d={4}
+print(type(d))
+d=dict()
+print(type(d))
+s=False
+print(type(s))
+a=20
+print(type(a))
