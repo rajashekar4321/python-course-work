@@ -78,7 +78,14 @@ for i in range (0,3):
    print()
 
 
-   
+for i in range (0,3):
+   for j in range (0,3):
+    if i==0 <=2:
+      print('*',end=" ")
+   print()
+
+
+
 
 
 
