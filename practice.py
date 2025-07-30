@@ -1,5 +1,5 @@
 #1
-num=-6
+'''num=-6
 if num > 0 :
     print("positive number")
 else: 
@@ -67,16 +67,21 @@ else:
 
 
 
-
-
-
-
-
-
-
 #8
 a="python"
-print("a.upper")
+print("a.upper")'''
+
+
+
+
+
+
+
+
+
+
+
+
 
          
         
